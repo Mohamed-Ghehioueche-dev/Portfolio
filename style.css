@@ -717,7 +717,7 @@ input[type=number]::-webkit-outer-spin-button {
   /*Services start*/
   #services .item1{
     width: 340px;
-    height: 420px;
+    
   }
   #services .item1 .paragraph{
   width: 300px;
@@ -766,4 +766,5 @@ input[type=number]::-webkit-outer-spin-button {
   margin-bottom: 1rem;
 }
   /*Contact end*/  
+
 }
