@@ -198,6 +198,7 @@ ul li a{
   position: fixed;
   bottom: 3rem;
   right: 2rem;
+  z-index: 1000;
   width: 50px;
   transition: 0.3s ease;
   animation: messanger 2s ease-in-out infinite alternate;
@@ -295,7 +296,6 @@ ul li a{
   border-radius: 12px;
   border: 2px solid var(--color-primary);
   transition: all 0.3s ease-out;
-  height: 410px;
   width: 400px;
 
 }
@@ -717,7 +717,6 @@ input[type=number]::-webkit-outer-spin-button {
   /*Services start*/
   #services .item1{
     width: 340px;
-    height: 450px ;
   }
   #services .item1 .paragraph{
   width: 300px;
@@ -768,3 +767,4 @@ input[type=number]::-webkit-outer-spin-button {
   /*Contact end*/  
 
 }
+
